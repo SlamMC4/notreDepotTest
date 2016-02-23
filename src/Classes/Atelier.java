@@ -16,6 +16,7 @@ public class Atelier {
 	public Integer getNoatelier() {
 		return noatelier;
 	}
+	
 	public String getLibelleatelier() {
 		return libelleatelier;
 	}
@@ -30,3 +31,5 @@ public class Atelier {
 	}
 
 }
+
+//commentaire de samantha
