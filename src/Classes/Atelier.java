@@ -6,7 +6,7 @@ public class Atelier {
 	private Integer nointervenant;
 	private String libelleatelier;
 	private Integer maxplace;
-	// constructeur
+	// constructeur modif
 	public Atelier(Integer wnoat,Integer wnoint,String wlib, Integer wnbplace)	{
 		noatelier = wnoat;
 		nointervenant = wnoint;
